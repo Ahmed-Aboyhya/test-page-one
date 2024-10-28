@@ -1,0 +1,118 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: antiquewhite; */
+    /* font-size: small; */
+}
+body{
+    max-width: 600px;
+    background-color: antiquewhite;
+}
+
+#contaner{
+    background-color: white;
+    /* border: solid 3px; */
+    border-radius: 8px;
+    max-width: 500px;
+    margin-top: 30px;
+    margin-left: 50%;
+    padding-left: 10px ;    
+    padding-right: 10px ;
+    font-size: smaller;
+}
+
+img {
+    max-width: 90%;
+    margin: 10px;
+    /* border: solid 3px ; */
+    border-radius: 8px; 
+    background-color: white;
+}
+
+
+.title {
+    /* border: solid 3px ; */
+    margin: 10px;
+    background-color: white;
+    font-size: small;
+}
+.title h1 {
+    margin: 0px 10px 10px 0px;
+    background-color: white;
+}
+
+.title b {
+    margin: 0px 10px 10px 0px;
+    font-size: 16px;
+    /* width: 400; */
+    text-align: justify;
+    background-color: white;
+}
+
+
+.title-one {
+    margin: 10px ;    
+    /* border: solid 3px ; */
+    background-color:white;
+}
+
+.title-one span {
+    display: block;
+    margin: 10px;
+    color: blueviolet;
+    font-size: 120%; 
+}
+
+.title-one ul {
+    display: block;
+    margin-left: 30px;
+    font-size: 90%; 
+    background-color: white;
+}
+.subtitle {
+    /* border: 3px solid; */
+    margin: 10px;
+    background-color: white;    
+}
+
+.subtitle h2{
+    margin: 10px 0px;
+    color: rgb(112, 131, 5);
+    background-color: white;
+}
+
+.subtitle ul {
+    display: block;
+    margin-left: 20px;
+    font-size: 90%;
+    background-color: white; 
+}
+
+.subtitle {
+    /* border: 3px solid; */
+    margin: 10px;
+    background-color: white;    
+}
+
+.subtitle h2{
+    margin: 10px 0px;
+    color: rgb(112, 131, 5);
+    background-color: white;
+}
+
+.subtitle ol {
+    display: block;
+    margin-left: 20px;
+    font-size: 90%; 
+    background-color: white;
+}
+
+table {
+    width: 90%;
+    margin: 0px 20px;
+}
+
+#-one{
+    color: rgb(112, 131, 5);
+}
